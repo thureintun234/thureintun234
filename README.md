@@ -1,4 +1,4 @@
-# Hi, I'm Thurein Tun 👋
+# Hi, I'm Thu Rein Tun 👋
 
 ### 👨‍💻 Full-Stack Developer | JavaScript Enthusiast | Tech Lover
 
