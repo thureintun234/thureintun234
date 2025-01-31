@@ -16,7 +16,7 @@ I'm a passionate full-stack software engineer with expertise in **JavaScript, Re
 ### 💼 Professional Experience:
 
 - **[Senyou Inc. (Japan - Remote)](https://github.com/thureintun234)**  
-  *Software Engineer (Sep 2023 - Present)*  
+  *Software Engineer (Sep 2023 - Nov 2024)*  
   - Built a ticketing system for events, plays, and travel.
   - Developed a drone-based web app for roof inspections.
   - Created a reporting system for developer tasks and leaves.
@@ -43,8 +43,6 @@ I'm a passionate full-stack software engineer with expertise in **JavaScript, Re
 
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thureintun234&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thureintun234&theme=radical)
 
 ---
 
