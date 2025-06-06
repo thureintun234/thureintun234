@@ -4,7 +4,7 @@
 
 I'm a passionate full-stack software engineer with expertise in **JavaScript, React, Node.js, and Python**. I have extensive experience in building innovative and scalable web apps, working on various exciting projects across multiple industries like e-commerce, logistics, and health tech.
 
-- 🔭 Currently working as a **Software Engineer** at Japanese-based company.
+- 🔭 Currently working as a **Software Engineer** at Thailand-based company.
 - 📍 Based in Bangkok, Thailand | Open to remote opportunities.
 
 ### ⚡ Technologies I work with:
