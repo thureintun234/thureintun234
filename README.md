@@ -13,28 +13,6 @@ I'm a passionate full-stack software engineer with expertise in **JavaScript, Re
 - 📦 **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 - 🌐 **Cloud & Tools**: ![AWS](https://img.shields.io/badge/-AWS-orange) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue)
 
-### 💼 Professional Experience:
-
-- **[Senyou Inc. (Japan - Remote)](https://github.com/thureintun234)**  
-  *Software Engineer (Sep 2023 - Nov 2024)*  
-  - Built a ticketing system for events, plays, and travel.
-  - Developed a drone-based web app for roof inspections.
-  - Created a reporting system for developer tasks and leaves.
-  - *Tech stack: React, TypeScript, Node.js, MongoDB, Flutter*
-
-- **[Interaktiv Technology (Singapore - Remote)](https://github.com/thureintun234)**  
-  *Full-Stack Developer (Nov 2022 - Nov 2023)*  
-  - Developed a web app for employee, task, and schedule management.
-  - Built systems for collecting user health data.
-  - Designed a customizable dashboard for community services.
-  - *Tech stack: React, TypeScript, Node.js, Salesforce, PostgreSQL*
-
-- **[Real Code Solution (Mandalay)](https://github.com/thureintun234)**  
-  *Full-Stack Developer (Dec 2021 - Nov 2022)*  
-  - Developed and maintained a mobile distribution ERP.
-  - Enhanced a POS web application for retail stores.
-  - *Tech stack: React, Laravel, Node.js, Flutter, MySQL*
-
 ### 🚀 Skills:
 - **Agile (Scrum)**, **TDD**, **Microservices**, **Design Patterns**, **Docker**, **Kubernetes**
 - **Frontend**: React, Next.js, HTML5, CSS3, Angular, Typescript
