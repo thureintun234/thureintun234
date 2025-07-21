@@ -25,7 +25,5 @@ I'm a passionate full-stack software engineer with expertise in **JavaScript, Re
 ---
 
 Feel free to reach out or check my repos. Let's build something cool together!
-
-📧 [thurein12456@gmail.com](mailto:thurein12456@gmail.com)  
-📞 (+66) 0945653755  
+ 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/thu-rein-tun-805bb41b6/)
