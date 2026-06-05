@@ -20,7 +20,7 @@ I'm a passionate full-stack software engineer with expertise in **JavaScript, Ty
 - **Database**: MongoDB, MySQL, PostgreSQL
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thureintun234&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thureintun234&show_icons=true&theme=radical&count_private=true)
 
 ---
 
